@@ -2,12 +2,15 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a fullstack developer at <a href='https://www.iqualify.com/'>iQualify LMS</a>."
+  title = "a fullstack developer at <a href='https://www.iqualify.com/'>iQualify LMS</a>"
 
   [[entries.entries]]
-  title = "github"
+  title = "my github"
   url = "https://github.com/Jordy1311"
 
+  [[entries.entries]]
+  title = "my linkedin"
+  url = "https://www.linkedin.com/in/jordy1311/"
 
 [[entries]]
 title = "all posts"
@@ -15,7 +18,7 @@ title = "all posts"
   [entries.post_list]
   limit = 5
   show_more = true
-  show_more_text = "See archive..."
+  show_more_text = "See more..."
   show_more_url = "posts"
 
 # [[entries]]
@@ -43,9 +46,3 @@ url = "index.xml"
 #     [[entries.entries.entries]]
 #     title = "example page"
 #     url = "about"
-
-# [[entries]]
-# title = "PRO TIP"
-# entries = [
-#    { title = "to edit this menu, edit data/menu.toml file" }
-#   ]
