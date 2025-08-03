@@ -32,6 +32,7 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    if: contains(github.event.head_commit.message, '--deploy')
     env:
       DART_SASS_VERSION: 1.89.2
       HUGO_VERSION: 0.148.0
