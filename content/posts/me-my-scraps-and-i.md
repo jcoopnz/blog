@@ -6,7 +6,7 @@ title = 'Me, My Scraps, and I'
 
 I have a shit memory, I easily become a bit lazy, but I’m trying to be better!
 
-To improve my technical development, I’m starting a blog… It’s the obvious decision: I’m almost 30, and not into the social media of my time, and definitely not into the social media of today! That leaves the good ol' format of text on a lightly styled HTML document. The way the web should have stayed, I reckon…
+To improve my technical development, I’m starting a blog… It’s the obvious decision: I’m almost 30, and not into the social media of *my* time, and **definitely** not into the social media of today! That leaves the good ol' format of text on a lightly styled HTML document. The way the web should have stayed, I reckon…
 
 ---
 
@@ -16,7 +16,7 @@ To improve my technical development, I’m starting a blog… It’s the obvious
 - Build a nice long blog of deep dives.
 - Have some fun while doing it.
 
-#### The types of things that interest me are:
+#### The types of things I'm interested in:
 - Small yet powerful tools.
 - Ridiculous but genius ideas.
 - Questioning the status quo.
@@ -32,5 +32,5 @@ To improve my technical development, I’m starting a blog… It’s the obvious
 
 I will never use AI to generate these posts. Maybe the titles because I lack creativity but never the content!
 
-I write this like I know it will get a following… I don’t know and it probably won’t, but screw it, I’m carving out a piece of the internet for me and my scraps!
+I'm writing this like I know it will get a following… I don’t know and it probably won’t, but screw it, I’m carving out a piece of the internet for me and my scraps!
 
